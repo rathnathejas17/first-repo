@@ -2,7 +2,7 @@ public class HelloWorld {
 
     // Method to greet the user
     public static void greetUser(String name) {
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hello world, " + name + "!");
     }
 
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class HelloWorld {
 
         // Conditional statement
         if (count > 0) {
-            System.out.println("Countdown starting...");
+            System.out.println("Countdown starting in...");
         }
 
         // Loop
