@@ -18,3 +18,9 @@ public class Greeting {
         scanner.close();  // Always close the scanner
     }
 }
+
+public class BasicProgram {
+    public static void main(String[] args) {
+        System.out.println("This is a basic Java program.");
+    }
+}
